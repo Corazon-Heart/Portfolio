@@ -11,7 +11,7 @@
 ในการเริ่มต้นใช้งานโปรเจคนี้ ให้ทำการโคลนโปรเจคจาก GitHub:
 
 <div style="border: 4px solid #4CAF50; padding: 10px; background-color: #e8f5e9; border-radius: 10px;">
-  <strong>git clone https://github.com/Corazon-Heart/KiartikunPortfoli-H.git</strong>
+  <strong>git clone https://github.com/Corazon-Heart/Portfolio-Kiartikun.git</strong>
 </div>
 
 ### 2. การติดตั้ง Dependencies
